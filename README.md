@@ -1,4 +1,4 @@
-# 🚀 EmployWise - Employee Management System
+# 🚀 EmployWise 
 
 EmployWise is a web-based employee management system built with **React.js** and **Tailwind CSS**.  
 It allows users to **log in**, **view employee data**, **edit employee details**, and **log out securely** while providing **real-time notifications** via **React Toastify**.
@@ -52,6 +52,8 @@ This project demonstrates **React Router, API Integration, Local Storage Authent
 - **Axios** - API requests
 - **React Toastify** - Toast notifications
 - **Tailwind CSS** - Styling framework
+
+## 📁 Folder Structure
 
  📂 EmployWise  
  ├── 📂 src  
